@@ -2,16 +2,14 @@
 ![Cust Segemenation](https://user-images.githubusercontent.com/109813094/213918222-2d827f77-be61-4842-ae72-bfa2022687fc.png)
 # Indroduction:-
 
-Every day, businesses around the world expand. They have access to a larger market and a vast consumer base thanks to technology. Customer segmentation is the process of grouping customers into several categories based on shared traits.
-
+Businesses all throughout the world grow daily. Technology has given them access to a broader market and a large customer base. The technique of dividing a client base into several categories based on shared characteristics is known as customer segmentation.
 In this project, a multinational data set for an online retailer based in the UK will be used to identify key client categories.
 
 # Problem Description :
-Your job in this assignment is to determine the key consumer segments from a multinational data set that includes every transaction made by a UK-based, registered non-store internet retailer between December 1, 2010, and December 9, 2011.
+Using a global data collection that contains each transaction performed by a UK-based, registered non-store internet retailer between December 1, 2010, and December 9, 2011, your task in this project is to identify the important consumer segments.
 
 # The need of customer segmentation:
-The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
-
+Grouping clients according to their variances in behaviour, demographics, geography, etc., is helpful. Understanding various client groups can help with the following:
 Target Marketing
 
 Client understanding
@@ -29,7 +27,7 @@ Frequency – How often do they purchase?
 
 Monetary Value – How much do they spend?
 
-A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
+To provide clients a numerical value, these three characteristics can be combined. e.g. A high value customer is one who frequently transacts and has lately purchased high value products.
 
 # Approach taken
 Data inspection
@@ -43,21 +41,21 @@ Create RFM model
 Implementing various clustering Models and validating
 
 # Conclusions:
-Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
+Descriptive Analysis: The online customer segmentation dataset analysis reveals the following:
 
-Missing and duplicate values were found.
+We discovered duplicate and missing values.
 
-Most of the purchases are from the United Kingdom.
+The majority of the purchases are made in the UK.
 
-Most of the customers have purchased items on Thursday, Wednesday, Tuesday.
+The most frequent shopping days are Thursday, Wednesday, and Tuesday.
 
-Most of the customers have purchased items in November, October, December, and the least number of purchases in April, January, February.
+The months of November, October, and December saw the most client purchases, while April, January, and February saw the fewest.
 
-Most of the customers purchase in the afternoon time.
+The majority of sales occur in the afternoon.
 
-Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters.
+The clients have been divided into several clusters using a recency, frequency, and monetary (RFM) analysis.
 
-By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 3.
+By using various clustering algorithms on our dataset, we discover that three clusters are the ideal number.
 
-The business can focus on these different clusters and provide customer with services of each sector in a different way, which would not only benefit the customers but also the business at large.
+The company can concentrate on these several clusters and offer clients services from each sector in a unique fashion, which would be advantageous for both the customers and the company as a whole.
 
