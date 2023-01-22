@@ -6,3 +6,7 @@ Every day, businesses around the world expand. They have access to a larger mark
 
 In this project, a multinational data set for an online retailer based in the UK will be used to identify key client categories.
 
+#Problem Description :
+Your job in this assignment is to determine the key consumer segments from a multinational data set that includes every transaction made by a UK-based, registered non-store internet retailer between December 1, 2010, and December 9, 2011.
+
+
